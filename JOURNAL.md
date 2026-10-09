@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-08 – I finished the schematic and wiring of the pcb for day 1 today.](#2026-10-08-i-finished-the-schematic-and-wiring-of-the-pcb-fo)
-2. [2026-10-08 – Work session](#2026-10-08-work-session)
+2. [2026-10-08 – Part 1 of Day 2:](#2026-10-08-part-1-of-day-2)
 
 ## Design
 
@@ -40,8 +40,15 @@ Overall, I was able to wire my Starbie PCB and now could move onto the coding pa
 
 [Timelapse](https://lookout.hackclub.com/api/media/523d5fec-2553-49eb-a1cf-741e1f02fa48/video.mp4)
 
-### 2026-10-08 – Work session
+### 2026-10-08 – Part 1 of Day 2:
 
 **0.6h**
+
+Part 1 of Day 2:
+Today I went ahead and installed all the firmware required for the starbie. Downloading all the required libraries took a while, and it was easy to manuvere because I was already comfortable with Arduino IDE. I went ahead and finished reading the rest of the beginner guide. I also copied and pasted any code needed and went ahead and tried to read the code. However, I kinda do not understand most of it to be honest. Lastly, I ended this session looking for ways to improve my starbie and make it unique. I decided that I will be changing the code to make it do something unique in the next session.
+
+Thats all!
+
+![Screenshot 2026-10-09 135157](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psMpOXqdiJ6q6bdeaJAGnxAnmDRaI95v/be4bf397690fea23de1d689a38c630edb23eafb180f3c93e75c726a387dec72a.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/0e9aeaa0-7a4a-4015-abed-bf2288a56341/video.mp4)
